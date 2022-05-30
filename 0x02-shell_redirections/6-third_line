@@ -1,3 +1,2 @@
-#!/bin/bash                                                                        
-ls -la >> ls_cwd_content
-head --lines-3 iacta | tail --lines-1 
+#!/bin/bash
+head line-3 iacta | tail line-1
