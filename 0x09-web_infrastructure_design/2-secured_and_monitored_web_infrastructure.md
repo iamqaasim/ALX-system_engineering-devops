@@ -1,3 +1,5 @@
+[View whiteboard](https://miro.com/app/board/uXjVPEbVnrU=/?share_link_id=221290462583)
+
 ## Description
 This is a 3-server web infrastructure that is secured, monitored, and serves encrypted traffic.
 
