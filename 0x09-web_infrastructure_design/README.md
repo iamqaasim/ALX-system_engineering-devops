@@ -11,5 +11,3 @@ This project is a collection of web infrastructure designs that could be impleme
 - Distributed web infrastructure 
 
 - Secured and monitored web infrastrucure 
-
-- Scaled up web infrastructure
